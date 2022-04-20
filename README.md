@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Mayck ☯︎
 
-[![Instagram](https://www.instagram.com/mayck.4m/https://www.instagram.c/)
+[![Instagram](https://www.instagram.com/accounts/login/?next=/mayck.4m/)
 
 ![Mayck333 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayck333&show_icons=true&theme=radical)
 
